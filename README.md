@@ -1,1 +1,1 @@
-# synthetic_content_evaluation
+# Synthetic content evaluation
